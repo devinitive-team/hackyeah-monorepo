@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2bbe7f3-fc1a-4d6d-9a79-7b12ff09f5d7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="oauth-token" />
+        <entry key="$PROJECT_DIR$/backend" value="add-events-api" />
+        <entry key="$PROJECT_DIR$/frontend" value="add-fields-to-reservation-process" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/backend" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Qpfpf2uPITS9cHJTz9LCv7gn9V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="GO_FMT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/backend/src/events" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/backend/src/events" />
+      <recent name="$PROJECT_DIR$/backend/src/fare" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/city" />
+      <recent name="$PROJECT_DIR$/src/city/graphql" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.Start LotFront">
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="Build Lot" type="js.build_tools.npm" folderName="Backend">
+      <package-json value="$PROJECT_DIR$/backend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Build LotFront" type="js.build_tools.npm" folderName="Frontend">
+      <package-json value="$PROJECT_DIR$/frontend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Format Lot" type="js.build_tools.npm" folderName="Backend">
+      <package-json value="$PROJECT_DIR$/backend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="format" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lint Lot" type="js.build_tools.npm" folderName="Backend">
+      <package-json value="$PROJECT_DIR$/backend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="lint" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Start Lot" type="js.build_tools.npm" folderName="Backend">
+      <package-json value="$PROJECT_DIR$/backend/package.json" />
+      <command value="start" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Start LotFront" type="js.build_tools.npm" folderName="Frontend">
+      <package-json value="$PROJECT_DIR$/frontend/package.json" />
+      <command value="start" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="StartDebug Lot" type="js.build_tools.npm" folderName="Backend">
+      <package-json value="$PROJECT_DIR$/backend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start:debug" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="StartDev Lot" type="js.build_tools.npm" folderName="Backend">
+      <package-json value="$PROJECT_DIR$/backend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start:dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.Dockerfile" />
+      <item itemvalue="npm.Start Lot" />
+      <item itemvalue="npm.Build Lot" />
+      <item itemvalue="npm.Format Lot" />
+      <item itemvalue="npm.StartDev Lot" />
+      <item itemvalue="npm.StartDebug Lot" />
+      <item itemvalue="npm.Lint Lot" />
+      <item itemvalue="npm.Start LotFront" />
+      <item itemvalue="npm.Build LotFront" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.Dockerfile" />
+        <item itemvalue="Docker.Dockerfile" />
+        <item itemvalue="Docker.Dockerfile" />
+        <item itemvalue="Docker.Dockerfile" />
+        <item itemvalue="Docker.Dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2bbe7f3-fc1a-4d6d-9a79-7b12ff09f5d7" name="Default Changelist" comment="" />
+      <created>1568472642416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568472642416</updated>
+      <workItem from="1568472646625" duration="263000" />
+      <workItem from="1568472974581" duration="6776000" />
+      <workItem from="1568480504980" duration="10092000" />
+      <workItem from="1568493493424" duration="20197000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1568473895521</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568473895521</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add docker support">
+      <created>1568476980806</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568476980806</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add script to copy graphQl schemas to dist folder">
+      <created>1568476995788</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1568476995788</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Install config and mongoose">
+      <created>1568478606641</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1568478606641</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add default config">
+      <created>1568478615934</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1568478615934</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Use mongoDB">
+      <created>1568478625212</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1568478625212</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Cleanup">
+      <created>1568482324709</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1568482324709</updated>
+    </task>
+    <task id="LOCAL-00008" summary="More cleanup">
+      <created>1568482332951</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1568482332951</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Change DB connection">
+      <created>1568482343015</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1568482343015</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Remove config">
+      <created>1568482352672</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1568482352672</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Finish city module">
+      <created>1568482361862</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1568482361862</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Finish CityResolver">
+      <created>1568482383346</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1568482383346</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Fix tests">
+      <created>1568482569328</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1568482569328</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Fix cities">
+      <created>1568482778792</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1568482778792</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Add docker build image continious deployment">
+      <created>1568484738762</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1568484738762</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Fix docker build image">
+      <created>1568484839016</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1568484839016</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Push as latest">
+      <created>1568484992831</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1568484992831</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Fix CD">
+      <created>1568485399155</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1568485399155</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Move database module and add mongo URL to ENV">
+      <created>1568485903471</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1568485903471</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Fix error">
+      <created>1568486029499</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1568486029499</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Finish City Model for gQl">
+      <created>1568487038436</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1568487038436</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Fix typo">
+      <created>1568487221339</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1568487221339</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Add new fields to mongo model">
+      <created>1568487231808</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1568487231808</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Add new fields to city interface">
+      <created>1568487248316</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1568487248316</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Install nest scheduler">
+      <created>1568495405143</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1568495405143</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Add axios wrapper">
+      <created>1568495418397</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1568495418397</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Add token module">
+      <created>1568495449162</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1568495449162</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Use token service and scheduler">
+      <created>1568495461416</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1568495461416</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Reformat">
+      <created>1568495469171</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1568495469171</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Reformat2">
+      <created>1568495488729</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1568495488729</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Some changes to gitignore">
+      <created>1568496886211</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1568496886211</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Add dockerfile">
+      <created>1568496901556</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1568496901556</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Add nginx config">
+      <created>1568496908914</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1568496908914</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Some changes to gitignore">
+      <created>1568503274343</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1568503274343</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Change to axios wrapper">
+      <created>1568503283856</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1568503283856</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Finish flight module">
+      <created>1568503293903</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1568503293903</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Fix bash script for docker deploy">
+      <created>1568503887890</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1568503887890</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Remove NODE_ENV=prod for now">
+      <created>1568506332722</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1568506332722</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Add Fare module">
+      <created>1568510788993</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1568510788993</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Include Fare module to App">
+      <created>1568510796168</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1568510796168</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Added function to refresh the token">
+      <created>1568511821588</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1568511821588</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Fix getting flights">
+      <created>1568527098903</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1568527098903</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Add events">
+      <created>1568532542103</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1568532542104</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Import events module into the app">
+      <created>1568532555412</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1568532555412</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Move database module and add mongo URL to ENV" />
+    <MESSAGE value="Fix error" />
+    <MESSAGE value="Finish City Model for gQl" />
+    <MESSAGE value="Fix typo" />
+    <MESSAGE value="Add new fields to mongo model" />
+    <MESSAGE value="Add new fields to city interface" />
+    <MESSAGE value="Install nest scheduler" />
+    <MESSAGE value="Add axios wrapper" />
+    <MESSAGE value="Add token module" />
+    <MESSAGE value="Use token service and scheduler" />
+    <MESSAGE value="Reformat" />
+    <MESSAGE value="Reformat2" />
+    <MESSAGE value="Add dockerfile" />
+    <MESSAGE value="Add nginx config" />
+    <MESSAGE value="Some changes to gitignore" />
+    <MESSAGE value="Change to axios wrapper" />
+    <MESSAGE value="Finish flight module" />
+    <MESSAGE value="Fix bash script for docker deploy" />
+    <MESSAGE value="Remove NODE_ENV=prod for now" />
+    <MESSAGE value="Add Fare module" />
+    <MESSAGE value="Include Fare module to App" />
+    <MESSAGE value="Added function to refresh the token" />
+    <MESSAGE value="Fix getting flights" />
+    <MESSAGE value="Add events" />
+    <MESSAGE value="Import events module into the app" />
+    <option name="LAST_COMMIT_MESSAGE" value="Import events module into the app" />
+  </component>
+</project>
